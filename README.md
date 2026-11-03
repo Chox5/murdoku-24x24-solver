@@ -2,6 +2,12 @@
 
 An interactive web-based solver for **Murdoku: The Treasure Hunt** (24×24 grid by Manuel Garand).
 
+## 🌐 Live Demo (在线体验地址)
+
+👉 **[https://chox5.github.io/murdoku-24x24-solver/](https://chox5.github.io/murdoku-24x24-solver/)**
+
+---
+
 ## Features
 
 - **Pixel-Accurate 24×24 Grid**: Overlaid on the glare-free official 24×24 map (`R1–R24`, `C1–C24`) with synchronized row/column crosshair highlighting.
@@ -19,6 +25,6 @@ An interactive web-based solver for **Murdoku: The Treasure Hunt** (24×24 grid 
   - `Ctrl/Cmd + Z` / `Ctrl/Cmd + Y`: Undo / Redo (up to 80 steps)
 - **Auto-Save**: Progress is saved automatically in `localStorage` and can be exported to JSON.
 
-## Usage
+## Local Usage
 
 Open `index.html` (or `murdoku_treasure_hunt.html`) directly in any modern browser. No server or build step required.
